@@ -1,6 +1,6 @@
-# Mental State Recognition via MachineLearning Based on EEG Signals
+# Mental State Recognition via Machine Learning Based on EEG Signals
 
-LATEST VERSION: EEG_11_normalized_std_conv -> 90% accuracy 
+HIGHEST ACCURACY VERSION: 2_obj_data/all_data/EEG_11_normalized_std_conv -> 90% accuracy 
 # AUTHOR: Gabriela Chavgova
 # MENTOR: Zvezdin Besarabov
 
